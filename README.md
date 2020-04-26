@@ -1,2 +1,22 @@
-# bling-wrt
-Homebrew for Blink Sync Module
+# Homebrew for Blink Sync Module
+
+![Blink synchronization module](https://images-na.ssl-images-amazon.com/images/I/41J-K9G0r9L._SY355_.jpg)
+
+## Introduction
+
+This project contains tutorials and scripts for customizing the Blink synchronization module. This device is used for creating a bridge between Blink Cloud Services and Blink cameras but there is actually a powerful router under the hood. 
+
+Modifications described here will allow to:
+
+* Download videos automatically to a USB connected in the Sync Module.
+* Run [Bling Viewer](https://github.com/lurume84/bling-viewer) in your local network for any Mac/Linux/Windows in the local network.
+* Run scheduled tasks through scripts like Snooze and any other developed by the community
+* Use Sync Module as DLNA Media server, BitTorrent client and many others
+
+Before continuing, you will need basic knowledge of computers and a USB to TTL device:
+
+![USB to TTL](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSf_r5Ou7ew-gL5mLn6-skFK9pBRMi02i3JJjeLUS7AF681WkNJc6hs9qinT6CexQtxuhymcOM&usqp=CAc)
+
+[This](https://www.amazon.es/gp/product/B07BBPX8B8) is the one I use but any USB to TTL will work and are quite inexpensive 5~10 EUR.
+
+
