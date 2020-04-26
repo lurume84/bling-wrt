@@ -19,4 +19,12 @@ Before continuing, you will need basic knowledge of computers and a USB to TTL d
 
 [This](https://www.amazon.es/gp/product/B07BBPX8B8) is the one I use but any USB to TTL will work and are quite inexpensive 5~10 EUR.
 
+Follow steps described below in order but remember:
+
+<p align="center">
+  <img width="100" height="100" src="https://t3.ftcdn.net/jpg/01/91/66/02/240_F_191660228_OpUuyY7qnyUdUKVKrQfDRmNkPOKnky1z.jpg">
+</p>
+<p align="center">
+  <b>These modifications may damage your SyncModule if not done properly</b>
+</p>
 
