@@ -9,7 +9,7 @@ This project contains tutorials and scripts for customizing the Blink synchroniz
 Modifications described here will allow to:
 
 * Download videos automatically to a USB connected in the Sync Module.
-* Run [Bling Viewer](https://github.com/lurume84/bling-viewer) in your local network for any Mac/Linux/Windows in the local network.
+* Run [Bling Viewer](https://github.com/lurume84/bling-viewer) for any Mac/Linux/Windows in the local network.
 * Run scheduled tasks through scripts like Snooze and any other developed by the community
 * Use Sync Module as DLNA Media server, BitTorrent client and many others
 
