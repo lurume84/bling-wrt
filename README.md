@@ -28,3 +28,18 @@ Follow steps described below in order but remember:
   <b>These modifications may damage your SyncModule if not done properly</b>
 </p>
 
+## Tutorial
+
+1. Setup
+   1. [Opening covers](covers.md)
+   1. [USB to TTL device](usb2ttl.md)
+   1. [Establishing connection](connect.md)
+   1. [Factory reset](reset.md)
+1. Services startup
+   1. [Certificates](certs.md)
+   1. [SSH server](sshserver.md)   
+   1. [Web Server](webserver.md)
+   1. [USB support](usb.md)
+1. Applications
+   1. [Video downloader](videos.md)
+   1. [Bling viewer](viewer.md)
