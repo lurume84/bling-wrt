@@ -4,7 +4,7 @@
 
 ## Introduction
 
-This project contains tutorials and scripts for customizing the Blink synchronization module. This device is used for creating a bridge between Blink Cloud Services and Blink cameras but there is actually a powerful router under the hood. 
+This DIY project contains tutorials and scripts for customizing the Blink synchronization module. This device is used for creating a bridge between Blink Cloud Services and Blink cameras but there is actually a powerful router under the hood. 
 
 Modifications described here will allow to:
 
