@@ -19,12 +19,14 @@ System is now factory reset and console is accessible but we would lose this acc
 1. Execute following command
 
 `sed -i "s/::askconsole:\/bin\/false/::askconsole:\/bin\/ash --login/g" /etc/inittab`
+
 `mv /root/apps/connection/check_login.lua /root/apps/connection/check_login.old.lua`
+
 `printf "#!/usr/bin/lua\n\nfunction check_login(serial_number)\nend" > /root/apps/connection/check_login.lua`
 
-1. Reboot Sync Module
+6. Reboot Sync Module
 
-1. After boot is completed, press Enter and you should go to the console instead of receiving the previous message
+7. After boot is completed, press Enter and you should go to the console instead of receiving the previous message
 
 We have presisted the access to the Sync Module after the onboarding process so we are now able to make customizations to our device while the device is in its normal usage. Depending on the reasons to customize your Sync Module, you may leave the tutorial here as you have full access to your device.
 
