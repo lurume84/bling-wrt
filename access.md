@@ -28,6 +28,6 @@ System is now factory reset and console is accessible but we would lose this acc
 
 7. After boot is completed, press Enter and you should go to the console instead of receiving the previous message
 
-We have presisted the access to the Sync Module after the onboarding process so we are now able to make customizations to our device while the device is in its normal usage. Depending on the reasons to customize your Sync Module, you may leave the tutorial here as you have full access to your device.
+We have persisted the access to the Sync Module after the onboarding process so we are now able to make customizations to our device while the device is in its normal usage. Depending on the reasons to customize your Sync Module, you may leave the tutorial here as you have full access to your device.
 
 However, if you want to enable all the resources explained in this tutorial, continue with [Certificates](certs.md)
