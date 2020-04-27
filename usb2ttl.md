@@ -7,7 +7,7 @@ Buy one USB to TTL device, Internet is plenty of them. Here is the [link](https:
 <b>Here comes the dangerous part</b>
 
 <table>
-<tr><td><img width="100" height="100" src="https://t3.ftcdn.net/jpg/01/91/66/02/240_F_191660228_OpUuyY7qnyUdUKVKrQfDRmNkPOKnky1z.jpg"></td><td>Identify the VCC pin in your USO to TTL device and <b>do not connect anything there during the whole process</td></tr>
+<tr><td><img width="100" height="100" src="https://t3.ftcdn.net/jpg/01/91/66/02/240_F_191660228_OpUuyY7qnyUdUKVKrQfDRmNkPOKnky1z.jpg"></td><td>Identify the VCC pin in your USB to TTL device and <b>do not connect anything there during the whole process</td></tr>
 </table>
 
 Locate three pins in the SyncModule with the name J3 in it
