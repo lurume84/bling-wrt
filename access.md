@@ -25,4 +25,4 @@ System is now factory reset and console is accessible but we would lose this acc
 
 We have presisted the access to the Sync Module after the onboarding process so we are now able to make customizations to our device while the device is in its normal usage. Depending on the reasons to customize your Sync Module, you may leave the tutorial here as you have full access to your device. 
 
-However, if you want to get access to all the resources explained in this tutorial, continue with [Certificates](certs.md)
+However, if you want to enable all the resources explained in this tutorial, continue with [Certificates](certs.md)
