@@ -29,4 +29,4 @@ The second way implies certificates, it's the best option but at this point I wi
 
 7. Reboot and test again to confirm access is persisted
 
-If you have access after reboot, you are safe to disconnect the USB to TTL device and put the Sync Module cover as it is no longer needed. Now it's time to set up a webserver for hosting out scripts so move to [Web Server](webserver.md) section.
+If you have access after reboot, you are safe to disconnect the USB to TTL device and put the Sync Module cover as it is no longer needed. Now it's time to set up a webserver for hosting our scripts so move to [Web Server](webserver.md) section.
