@@ -23,7 +23,7 @@ Before continuing, you will need basic knowledge of computers and a USB to TTL d
 Follow steps described below in order but remember:
 
 <table>
-<tr><td><img width="100" height="100" src="https://t3.ftcdn.net/jpg/01/91/66/02/240_F_191660228_OpUuyY7qnyUdUKVKrQfDRmNkPOKnky1z.jpg"></td><td>These modifications may damage your SyncModule if not done properly. Proceed at your own risk</td></tr>
+<tr><td><img width="100" src="https://t3.ftcdn.net/jpg/01/91/66/02/240_F_191660228_OpUuyY7qnyUdUKVKrQfDRmNkPOKnky1z.jpg"></td><td>These modifications may damage your SyncModule if not done properly. Proceed at your own risk</td></tr>
 </table>
 
 ## Tutorial
