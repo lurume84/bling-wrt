@@ -16,7 +16,7 @@ System is now factory reset and console is accessible but we would lose this acc
 
 1. Wait until onboarding process has finished (you can see your cameras again in the app)
 
-1. Execute following command
+1. Execute following commands
 
 `sed -i "s/::askconsole:\/bin\/false/::askconsole:\/bin\/ash --login/g" /etc/inittab`
 
@@ -30,4 +30,4 @@ System is now factory reset and console is accessible but we would lose this acc
 
 We have persisted the access to the Sync Module after the onboarding process so we are now able to make customizations to our device while the device is in its normal usage. Depending on the reasons to customize your Sync Module, you may leave the tutorial here as you have full access to your device.
 
-However, if you want to enable all the resources explained in this tutorial, continue with [Certificates](certs.md)
+However, if you are interested in the applications described in this tutorial, continue with [Certificates](certs.md)
