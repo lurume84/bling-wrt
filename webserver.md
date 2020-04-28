@@ -25,6 +25,8 @@ There is a webserver already installed but disabled by default. Happens the same
 
 7. Set the service to start automatically
 
+`/etc/init.d/uhttpd enable`
+
 `sed -i 's/os.execute("\/etc\/init.d\/uhttpd stop")//g' /root/apps/connection/sync_module`
 
 8. Reboot the device and check web application is accessible
