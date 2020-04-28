@@ -19,7 +19,7 @@ The second way implies certificates, it's the best option but at this point I wi
 
 `/etc/init.d/dropbear start`
 
-3. Then, execute `ifconfig` and copy the ip for wlan0 interface that appears after inet addr
+3. Execute `ifconfig` and copy the ip for wlan0 interface that appears after inet addr
 
 4. Open another Putty application and leave the connection type as SSH, then write in Host name input that IP.
 
