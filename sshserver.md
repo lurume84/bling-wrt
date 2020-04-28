@@ -21,12 +21,29 @@ The second way implies certificates, it's the best option but at this point I wi
 
 3. Execute `ifconfig` and copy the ip for wlan0 interface that appears after inet addr
 
-4. Open another Putty application and leave the connection type as SSH, then write in Host name input that IP.
+## Putty access
 
-5. Click on Open and wait for credentials. User root and password the want you set before.
+1. Open another Putty application and leave the connection type as SSH, then write in Host name input that IP.
 
-6. You should have access to the terminal the same as through COM.
+2. Click on Open and wait for credentials. User root and password the want you set before.
 
-7. Reboot and test again to confirm access is persisted
+3. You should have access to the terminal the same as through COM.
+
+## WinSCP access
+
+For uploading and downloading apps and scripts you will need WinSCP, install it for Windows.
+
+1. Open WinSCP and click on New session
+1. Choose protocol SCP
+1. Put the same IP as in Putty
+1. You can store user and password and click on connect
+
+* On the left you have your computer
+* On the right the Sync Module
+* You can drag and drop files on both places
+* Double clicking on a file will automatically open it with notepad, when saving it will be uploaded to the Sync Module
+
+
+Reboot and test both programs again to confirm access is persisted
 
 If you have access after reboot, you are safe to disconnect the USB to TTL device and put the Sync Module cover as it is no longer needed. Now it's time to set up a webserver for hosting our scripts so move to [Web Server](webserver.md) section.
