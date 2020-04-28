@@ -5,7 +5,7 @@
 </table>
 
 <table>
-<tr><td><img width="100" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Info_icon-72a7cf.svg/1200px-Info_icon-72a7cf.svg.png"></td><td>Authentication token must be manually set until I prepare the login screen through the webserver</td></tr>
+<tr><td><img width="100" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Info_icon-72a7cf.svg/1200px-Info_icon-72a7cf.svg.png"></td><td>Authentication token must be manually set until I prepare the Bling viewer compatibilty</td></tr>
 </table>
 
 1. Download /apps/get_videos.lua
