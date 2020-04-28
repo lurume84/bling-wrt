@@ -4,7 +4,7 @@
 
 ## Introduction
 
-This DIY project contains tutorials and scripts for customizing the Blink synchronization module. This device is used for creating a bridge between Blink Cloud Services and Blink cameras but there is actually a powerful router under the hood. 
+This DIY project contains tutorials and scripts for customizing the Blink synchronization module. This device is used for creating a bridge between Blink Cloud Services and Blink cameras but there is actually a powerful embedded Linux under the hood.
 
 Modifications described here will allow to:
 
@@ -12,6 +12,7 @@ Modifications described here will allow to:
 * Run [Bling Viewer](https://github.com/lurume84/bling-viewer) for any Mac/Linux/Windows in the local network.
 * Run scheduled tasks through scripts like Snooze and any other developed by the community
 * Use Sync Module as DLNA Media server, BitTorrent client and many others
+* Do the same things you can do with an OpenWRT Barrier Breaker 14.07
 
 Before continuing, you will need basic knowledge of computers and a USB to TTL device:
 
