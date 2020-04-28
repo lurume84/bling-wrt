@@ -9,7 +9,7 @@
 </table>
 
 1. Download /apps/get_videos.lua
-1. Copy to /root/apps/bling using WinSCP
+1. Copy file to /root/apps/bling using WinSCP
 1. Install in your computer Bling Desktop and run it.
 1. Login with your credentials in the application
 1. In your Windows, open %userprofile%/Documents/Bling.exe/Html/viewer/data/token.json
