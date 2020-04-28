@@ -19,7 +19,7 @@ There is a webserver already installed but disabled by default. Happens the same
 
 4. Open a browser in your computer and navigate to https://<synmodule_ip>. A security warning should appear informing that the certificate is not trusted (it is self-signed). Click on more info and continue.
 
-5. A couple of links are shown, this is the Sync Module's www folder. Click in ssids
+5. A couple of links are shown, this is the Sync Module's www folder. Click in api and the ssids script that Blink developed will return all ssids available for the Sync Module
 
 6. Click on the left of the navigation bar where says "Not secure", then click on Certificate and check it is the one you generated
 
