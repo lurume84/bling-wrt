@@ -42,3 +42,5 @@ Follow steps described below in order but remember:
    1. [USB support](usb.md)
    1. [Video downloader](videos.md)
    1. [Bling viewer](viewer.md)
+   1. [Torrent downloader](torrent.md)
+   1. [Timestamp videos](timestamp.md)
