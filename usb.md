@@ -20,4 +20,4 @@ We have configured the USB but will do some tests before continuing
 
 Every time you connect the USB you will have to mount it executing the `mount /dev/sda /mnt/usb` command.
 
-We now have USB support for storing anything we want...like a [Video downloader](videos.md)!
+We now have USB support for storing anything we want from any application...like a [Video downloader](videos.md)!
