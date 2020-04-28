@@ -2,7 +2,7 @@
 
 This service is not mandatory unless you want to run [Bling Viewer](https://github.com/lurume84/bling-viewer) or expose information related with the Sync Module in a web server accessible in your intranet. This is very interesting for IFTTT and many other ideas.
 
-There is a webserver already installed but disabled by default. Happens the same as with the SSH Server, any person connected to your wifi could access the webserver. We cannot avoid an access but at least we can encrypt them using certificates. If you plan to use Bling viewer that project will take care of the access because of its login.
+There is a webserver already installed but disabled by default. Happens the same as with the SSH Server, any person connected to your wifi could access the webserver. We cannot avoid an access but at least we can encrypt them using certificates. If you plan to use Bling viewer that project will take care of the access because of its login so both cases are covered.
 
 1. Execute following command to remove HTTP so HTTPS is the only server available:
 
@@ -21,12 +21,12 @@ There is a webserver already installed but disabled by default. Happens the same
 
 5. A couple of links are shown, this is the Sync Module's www folder. Click in ssids
 
-5. Click on the left of the navigation bar where says "Not secure", then click on Certificate and check it is the one you generated
+6. Click on the left of the navigation bar where says "Not secure", then click on Certificate and check it is the one you generated
 
-6. Set the service to start automatically
+7. Set the service to start automatically
 
-`echo -e "(/etc/init.d/uhttpd start)\n$(cat /etc/rc.local)" > /etc/rc.local`
+`sed -i 's/os.execute("\/etc\/init.d\/uhttpd stop")//g' /root/apps/connection/sync_module`
 
-7. Reboot the device and check web application is accessible
+8. Reboot the device and check web application is accessible
 
 We are all set! Next step is to add [USB support](usb.md) 
