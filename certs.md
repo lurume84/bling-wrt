@@ -13,11 +13,17 @@ Before enabling other services, we will generate self-signed certificates for se
 Last command will ask for several parameters, put whatever you want but here is an example 
 
 > Country Name (2 letter code) [AU]:US
+
 > State or Province Name (full name) [Some-State]:Massachusetts
+
 > Locality Name (eg, city) []:Boston
+
 > Organization Name (eg, company) [Internet Widgits Pty Ltd]:Amazon
+
 > Organizational Unit Name (eg, section) []:Blink
+
 > Common Name (e.g. server FQDN or YOUR name) []:*.immedia-semi.com
+
 > Email Address []:admin@immediasemi.com
 
 There are now two files in /etc/ssl that will be used for encrypting communications. In case someday you need the key encrypted in pem format you can execute following commands
