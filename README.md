@@ -6,9 +6,9 @@
 
 This DIY project contains tutorials and scripts for customizing the Blink synchronization module. This device is used for creating a bridge between Blink Cloud Services and Blink cameras but there is actually a powerful embedded Linux under the hood.
 
-Modifications described here will allow to:
+Modifications described here will allow one to:
 
-* Download videos automatically to a USB connected in the Sync Module.
+* Download videos automatically to a USB connected to the Sync Module.
 * Run [Bling Viewer](https://github.com/lurume84/bling-viewer) for any Mac/Linux/Windows in the local network.
 * Run scheduled tasks through scripts like Snooze and any other developed by the community
 * Use Sync Module as DLNA Media server, BitTorrent client and many others
