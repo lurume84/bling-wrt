@@ -1,11 +1,5 @@
 # Persist access
 
-First things first, execute "passwd" and set a password to your root user. Make sure you do not forget this password as will be needed for any future action. 
-
-<table>
-<tr><td><img width="100" height="100" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Info_icon-72a7cf.svg/1200px-Info_icon-72a7cf.svg.png"></td><td>Protect root user with a password executing "passwd"</td></tr>
-</table>
-
 System is now factory reset and console is accessible but we would lose this access right after onboarding because of security restrictions. We will apply following actions so we can access Sync Module after the onboarding process.
 
 1. Ensure you are connected to the Sync Module with the USB to TTL device
